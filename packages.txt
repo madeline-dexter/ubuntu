@@ -1,3 +1,5 @@
 exa
 gh
 jq
+pass
+zsh
