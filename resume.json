@@ -8,7 +8,7 @@
     "email": "madeline.dexter@icloud.com",
     "phone": "(312) 866-4702",
     "url": "https://github.com/madeline-dexter",
-    "summary": "Madeline is a data developer with experience in database management, ETL development, data warehousing, cloud infrastructure, business analytics, and peer mentorship. She has architected data flow patterns for a range of companies with products like Snowflake, Redshift, RDS, Kubernetes, Terraform, Docker and Jenkins. Madeline works in languages like Python, Java, and various SQL and shell scripting dialects.",
+    "summary": "Madeline is a data developer with experience in database management, ETL development, data warehousing, cloud infrastructure, business analytics, and peer mentorship. She has architected data flow patterns for a range of companies with products like Snowflake, Redshift, RDS, Kubernetes, Terraform, Docker and Jenkins. Madeline works in languages like Python, Java, and various SQL and shell scripting dialects. In addition to tech, Madeline is passionate about music, languages, cooking, beer, and trans rights.",
     "location": {
       "address": "3611 University Dr Apt 21T",
       "postalCode": "NC 27707",
@@ -28,35 +28,35 @@
     {
       "name": "Vivid Seats",
       "location": "Chicago, IL",
-      "description": "Event ticketing",
-      "position": "Data Engineer",
+      "description": "Online ticket marketplace where fans can buy and sell tickets to sports, concerts, and theater events nationwide",
+      "position": "Senior Data Engineer",
       "url": "https://vividseats.com",
-      "startDate": "2019-01-19",
-      "endDate": "2022-05-12",
-      "summary": "Did stuff",
+      "startDate": "2020-01-01",
+      "endDate": "2022-05-31",
+      "summary": "",
       "highlights": [
         "Wrote, deployed and managed microservices to enable co-dependent RDS and Snowflake migrations",
-        "Deployed and managed database architecture to company-wide adoption of microservices",
-        "Upgraded OLTP and OLAP MySQL RDS instances with minimal downstream impact to production systems",
-        "Developed a user identity, role, and warehouse allotment management system for Snowflake",
+        "Deployed and managed data infrastructure to support company-wide adoption of a microservices architecture",
+        "Upgraded and debugged OLTP and OLAP MySQL RDS instances with minimal downstream impact to production",
+        "Developed a user identity, role, and warehouse management system for Snowflake and Azure AD",
         "Developed a task execution model for extraction of OLTP data into cached Snowflake views"
       ]
     },
     {
-      "name": "Vivid Seats",
+      "name": "KAR Auction Services",
       "location": "Chicago, IL",
-      "description": "Event ticketing",
+      "description": "Company that provides sellers and buyers across the global wholesale used-vehicle industry with technology-driven remarketing solutions",
       "position": "Data Engineer",
       "url": "https://vividseats.com",
-      "startDate": "2019-01-19",
-      "endDate": "2022-05-12",
-      "summary": "Did stuff",
+      "startDate": "2018-05-01",
+      "endDate": "2019-12-31",
+      "summary": "",
       "highlights": [
-        "Wrote, deployed and managed microservices to enable co-dependent RDS and Snowflake migrations",
-        "Deployed and managed database architecture to company-wide adoption of microservices",
-        "Upgraded OLTP and OLAP MySQL RDS instances with minimal downstream impact to production systems",
-        "Developed a user identity, role, and warehouse allotment management system for Snowflake",
-        "Developed a task execution model for extraction of OLTP data into cached Snowflake views"
+        "Developed database models and views for ingestion and analysis of inbound data",
+        "Wrote a common tools package for Python to perform uniform ETL ingestion of company data",
+        "Wrote, deployed, and managed EMR jobs to process big data sets with PySpark",
+        "Designed and maintained an S3 data lake to structure inbound vendor data-of-record",
+        "Dockerized existing ETL jobs and deployed them to ECS with Terraform"
       ]
     }
   ],
@@ -65,25 +65,17 @@
       "institution": "University of Utah",
       "url": "https://utah.edu/",
       "area": "Finance",
-      "studyType": "Master's",
-      "startDate": "2022-01-01",
-      "endDate": "2022-12-31"
+      "studyType": "Master's Degree",
+      "startDate": "2012-08-01",
+      "endDate": "2014-05-31"
     },
     {
       "institution": "University of Alabama",
       "url": "https://ua.edu/",
       "area": "Finance/Economics",
-      "studyType": "Bachelor",
-      "startDate": "2022-01-01",
-      "endDate": "2022-12-31"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Pinnacle of Something",
-      "date": "2022-01-01",
-      "awarder": "Discover Financial Services",
-      "summary": "It was a big deal"
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "2006-08-01",
+      "endDate": "2010-12-31"
     }
   ],
   "skills": [
@@ -91,14 +83,21 @@
       "name": "Data",
       "level": "Advanced",
       "keywords": [
-        "SQL"
+        "SQL", "Snowflake", "RDS", "MySQL", "PostgreSQL", "Redshift", "BigQuery", "EMR", "S3", "Airflow"
       ]
     },
     {
       "name": "DevOps",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "UNIX"
+        "AWS", "Azure", "GCP", "Terraform", "Kubernetes", "Docker", "Jenkins", "ECS", "Lambda", "IAM"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Intermediate",
+      "keywords": [
+        "GitHub", "Jira", "Confluence", "Statuspage", "OpsGenie", "Slack", "Zoom"
       ]
     }
   ],
@@ -114,10 +113,28 @@
   ],
   "interests": [
     {
+      "name": "Music",
+      "keywords": [
+        "Guitar",
+	"Metal",
+	"Post-punk",
+	"Hip-hop"
+      ]
+    },
+    {
       "name": "Cooking",
       "keywords": [
         "Thai",
+	"Japanese",
         "Fusion"
+      ]
+    },
+    {
+      "name": "Beer",
+      "keywords": [
+        "IPAs",
+	"Sours",
+	"Lagers"
       ]
     }
   ]
