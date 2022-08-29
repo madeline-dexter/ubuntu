@@ -1,3 +1,3 @@
-source ".aliases"
-source ".env"
-source ".functions"
+source "$HOME/.env"
+source "$HOME/.aliases"
+source "$HOME/.functions"

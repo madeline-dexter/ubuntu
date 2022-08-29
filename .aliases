@@ -4,3 +4,4 @@ alias l="exa -laT -I .git"
 alias ..="cd .."
 alias ...="cd ..."
 
+alias work="cd $WORKSPACE"
