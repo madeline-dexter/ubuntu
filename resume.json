@@ -58,6 +58,66 @@
         "Designed and maintained an S3 data lake to structure inbound vendor data-of-record",
         "Dockerized existing ETL jobs and deployed them to ECS with Terraform"
       ]
+    },
+    {
+      "name": "ReviewLabs",
+      "location": "Plaistow, NH",
+      "description": "Company which provided business intelligence services for Amazon merchants",
+      "position": "Co-founder and CFO",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "2018-01-31",
+      "summary": "",
+      "highlights": [
+        "Created the ReviewLabs business model and develop with two co-founders",
+	"Performed legal and accounting work e.g. incorporation, bookkeeping, and contracting",
+	"Designed all marketing materials including web assets and promotional videos"
+      ]
+    },
+    {
+      "name": "Discover Financial Services",
+      "location": "Chicago, IL",
+      "description": "Financial services company that offers checking and savings accounts, personal loans, home equity loans, student loans and credit cards",
+      "position": "Senior Data Consultant",
+      "url": "https://discover.com",
+      "startDate": "2015-05-01",
+      "endDate": "2017-02-28",
+      "summary": "",
+      "highlights": [
+        "Managed a company-wide intranet reporting site for collections inventory analysis",
+	"Facilitated A/B testing on strategic initiatives and reported on the results",
+	"Identified and worked with IT teams to resolve data warehousing integrity issues"
+      ]
+    },
+    {
+      "name": "Discover Financial Services",
+      "location": "Salt Lake City, UT",
+      "description": "Financial services company that offers checking and savings accounts, personal loans, home equity loans, student loans and credit cards",
+      "position": "Reporting Manager",
+      "url": "https://discover.com",
+      "startDate": "2013-05-01",
+      "endDate": "2014-12-31",
+      "summary": "",
+      "highlights": [
+        "Managed a team of analysts who administered a database and intranet reporting site",
+	"Collaborated with department leaders to leverage data assets into actionable intelligence",
+	"Hired and mentored reporting analysts and performed regular performance evaluations"
+      ]
+    },
+    {
+      "name": "Discover Financial Services",
+      "location": "Salt Lake City",
+      "description": "Financial services company that offers checking and savings accounts, personal loans, home equity loans, student loans and credit cards",
+      "position": "Reporting Analyst",
+      "url": "https://discover.com",
+      "startDate": "2012-04-01",
+      "endDate": "2013-04-30",
+      "summary": "",
+      "highlights": [
+        "Co-administered a department-wide performance reporting and analysis intranet website",
+	"Co-developed and maintained a MySQL database as a backend for the reporting website",
+	"Developed applications to satisfy compliance requirements and performance initiatives"
+      ]
     }
   ],
   "education": [
@@ -80,7 +140,7 @@
   ],
   "skills": [
     {
-      "name": "Data",
+      "name": "Data Engineering",
       "level": "Advanced",
       "keywords": [
         "SQL", "Snowflake", "RDS", "MySQL", "PostgreSQL", "Redshift", "BigQuery", "EMR", "S3", "Airflow"
