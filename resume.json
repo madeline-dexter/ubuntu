@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "caffeine"
+    "theme": "onepage"
   },
   "basics": {
     "name": "Madeline Dexter",
@@ -35,10 +35,10 @@
       "endDate": "2022-05-31",
       "summary": "",
       "highlights": [
-        "Wrote, deployed and managed microservices to enable co-dependent RDS and Snowflake migrations",
-        "Deployed and managed data infrastructure to support company-wide adoption of a microservices architecture",
-        "Upgraded and debugged OLTP and OLAP MySQL RDS instances with minimal downstream impact to production",
-        "Developed a user identity, role, and warehouse management system for Snowflake and Azure AD",
+        "Wrote and deployed microservices to enable codependent RDS/Snowflake migrations",
+        "Deployed and managed infrastructure to support company adoption of microservices",
+        "Upgraded and debugged OLTP & OLAP RDS instances with minimal impact to production",
+        "Developed a user identity, role, and warehouse management system for Snowflake/Azure",
         "Developed a task execution model for extraction of OLTP data into cached Snowflake views"
       ]
     },
@@ -140,21 +140,21 @@
   ],
   "skills": [
     {
-      "name": "Data Engineering",
+      "name": "Data",
       "level": "Advanced",
       "keywords": [
-        "SQL", "Snowflake", "RDS", "MySQL", "PostgreSQL", "Redshift", "BigQuery", "EMR", "S3", "Airflow"
+        "SQL", "Snowflake", "RDS", "MySQL", "PostgreSQL", "Redshift", "BigQuery", "S3", "Airflow"
       ]
     },
     {
       "name": "DevOps",
       "level": "Advanced",
       "keywords": [
-        "AWS", "Azure", "GCP", "Terraform", "Kubernetes", "Docker", "Jenkins", "ECS", "Lambda", "IAM"
+        "AWS", "Azure", "GCP", "Terraform", "Kubernetes", "Docker", "Jenkins", "ECS", "Lambda"
       ]
     },
     {
-      "name": "Project Management",
+      "name": "General",
       "level": "Intermediate",
       "keywords": [
         "GitHub", "Jira", "Confluence", "Statuspage", "OpsGenie", "Slack", "Zoom"
@@ -169,6 +169,10 @@
     {
       "language": "Spanish",
       "fluency": "Intermediate"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
@@ -177,7 +181,6 @@
       "keywords": [
         "Guitar",
 	"Metal",
-	"Post-punk",
 	"Hip-hop"
       ]
     },
